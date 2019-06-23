@@ -1,0 +1,2 @@
+LIKE = 'icontains'
+IN = 'in'
