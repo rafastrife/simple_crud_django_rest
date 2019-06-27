@@ -4,6 +4,10 @@
 This project was generated with [Python](https://www.python.org/downloads/release/python-368/) version 3.6.
 
 
+### Link Video Youtube
+https://youtu.be/wLPgnyV0Zb4
+
+
 ### Environment
 
 Create, activate python environments and install dependencies to run project.
